@@ -1,0 +1,10 @@
+PHP - Hypertext Preprocessor
+
+PHP is a server side or backend programming language
+	- can make your website more dynamic
+	- data base is crucial in saving user information
+	- create cookies, manipulate databases, etc..
+
+1. Must set up server on local or other server	
+2. PHP files can contain HTML, CSS, Java Script.
+
