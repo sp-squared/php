@@ -8,3 +8,8 @@ PHP is a server side or backend programming language
 1. Must set up server on local or other server	
 2. PHP files can contain HTML, CSS, Java Script.
 
+Predetermined Functions - Functions that have already been defined in php
+User Defined Functions - Functions created by user
+
+
+
